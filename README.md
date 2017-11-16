@@ -13,7 +13,7 @@ O objetivo deste teste é validar as hipóteses de desenvolvimento do mesmo anal
 
 
 ### Fase 2: Esclarecimento dos Termos
-Alguns termos sobre consentimento e sigilos são obrigatórios neste tipo de teste e serão apresentados a todos, onde assinaram consentindo com o mesmo, assim como poderão obter uma cópia [aqui](confidentialityTerm/Termo de Sigilo e Consentimento Livre e Esclarecido.pdf).
+Alguns termos sobre consentimento e sigilos são obrigatórios neste tipo de teste e serão apresentados a todos, onde assinaram consentindo com o mesmo, assim como poderão obter uma cópia [aqui](https://github.com/quicksloth/user-test/blob/master/confidentialityTerm/Termo%20de%20Sigilo%20e%20Consentimento%20Livre%20e%20Esclarecido.pdf).
 
 ### Fase 3: Desenvolvimento das Tarefas
 Agora é hora de colocar a mão na massa, construimos três tarefas (acumulativas) que envolvem lógica de programação e algoritmos.

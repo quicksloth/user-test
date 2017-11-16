@@ -29,9 +29,9 @@ A primeira tarefa é ler [este arquivo](tasks/input.txt)  e montar o grafo que s
 A segunda tarefa envolve o grafo montado na tarefa anterior. Agora, construa uma busca utilizando o algoritmo BFS (Breadth-First Search) para encontrar as distâncias dos nós a partir do **Nó A**.
 
 ##### Tarefa #3: Imprimir as distâncias do Grafo de forma ordenada
-Depois 
+Depois de encontrar o vetor de distância a partir do nó na tarefa anterior, agora ordene o vetor e imprima o resultado. Exemplo de saída: `[A, B, C, D]`
 
 
 ### Fase 4: Questionário
-Após o desenvolvimento das tarefas e a utilização da ferramenta, pedimos que um questionário seja respondido para entender como a ferramenta foi utilizada, feedbacks e dentro deste mesmo questionário pedimos que suba os arquivos desenvolvidos. 
+Após o desenvolvimento das tarefas e a utilização da ferramenta, pedimos que [este questionário](https://goo.gl/forms/3SiE1KJ7U6xBn6Vy1) seja respondido para entender como a ferramenta foi utilizada, feedbacks e dentro deste mesmo questionário pedimos que suba os arquivos desenvolvidos. 
 

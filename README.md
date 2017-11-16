@@ -22,13 +22,13 @@ Toda vez que iniciar ou terminar a codificação de uma tarefa, chame o seu entr
 
 Qualquer dúvida, sintam-se a vontade para fazer perguntas sobre a aplicação, as tarefas ou dúvidas dos algoritmos.
 
-##### Tarefa #1: Ler um grafo de um arquivo
+#### Tarefa #1: Ler um grafo de um arquivo
 A primeira tarefa é ler [este arquivo](tasks/input.txt)  e montar o grafo que será utilizado na próxima tarefa.
 
-##### Tarefa #2: Fazer uma busca BFS a partir do nó A
+#### Tarefa #2: Fazer uma busca BFS a partir do nó A
 A segunda tarefa envolve o grafo montado na tarefa anterior. Agora, construa uma busca utilizando o algoritmo BFS (Breadth-First Search) para encontrar as distâncias dos nós a partir do **Nó A**.
 
-##### Tarefa #3: Imprimir as distâncias do Grafo de forma ordenada
+#### Tarefa #3: Imprimir as distâncias do Grafo de forma ordenada
 Depois de encontrar o vetor de distância a partir do nó na tarefa anterior, agora ordene o vetor e imprima o resultado. Exemplo de saída: `[A, B, C, D]`
 
 

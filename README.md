@@ -25,11 +25,11 @@ Qualquer dúvida, sintam-se a vontade para fazer perguntas sobre a aplicação, 
 #### Tarefa #1: Ler um grafo de um arquivo
 A primeira tarefa é ler [este arquivo](tasks/input.txt)  e montar o grafo que será utilizado na próxima tarefa.
 
-#### Tarefa #2: Fazer uma busca BFS a partir do nó A
-A segunda tarefa envolve o grafo montado na tarefa anterior. Agora, construa uma busca utilizando o algoritmo BFS (Breadth-First Search) para encontrar as distâncias dos nós a partir do **Nó A**.
+#### Tarefa #2: Fazer uma busca BFS a partir do nó 1
+A segunda tarefa envolve o grafo montado na tarefa anterior. Agora, construa uma busca utilizando o algoritmo BFS (Breadth-First Search) para encontrar as distâncias dos nós a partir do **Nó 1**.
 
 #### Tarefa #3: Imprimir as distâncias do Grafo de forma ordenada
-Depois de encontrar o vetor de distância a partir do nó na tarefa anterior, agora ordene o vetor de forma descendente e imprima o resultado. Exemplo de saída: `[D, C, B, A]`
+Depois de encontrar as distâncias a partir do nó na tarefa anterior, agora ordene forma ascendente e imprima um array dos nós. Exemplo de saída (meramente ilustrativo): `[6, 5, 7, 1]`
 
 
 ### Fase 4: Questionário
